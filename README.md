@@ -97,15 +97,21 @@ python main.py
 4.  **Configure Plot Options**: Depending on the selected plot, relevant configuration options will appear (e.g., pID, start/end day, category for grouping).
 5.  **Draw Plot**: Click the "Draw Plot" button to generate and display the visualization.
 
+
+![T1DM-Explorer-CEG-plot](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-ceg-plot.PNG)
+
+
 ![T1DM-Explorer-daily-glycaemic-plot](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-daily-glycaemic-plot.PNG)
+
 
 ![T1DM-Explorer-glycaemic-comparison-plot-1](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-glycaemic-comp-plot-1.PNG)
 
+
 ![T1DM-Explorer-glycaemic-comparison-plot-2](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-glycaemic-comp-plot-2.PNG)
+
 
 ![T1DM-Explorer-glycaemic-histogram-plo](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-glycaemic-hist-plot.PNG)
 
-![T1DM-Explorer-CEG-plot](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-ceg-plot.PNG)
 
 ### 2\. Using the Jupyter Notebook
 
