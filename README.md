@@ -2,6 +2,8 @@
 
 This tool provides a user-friendly interface for exploring and visualizing glucose data from publicly available datasets related to Type 1 Diabetes Mellitus (T1DM). It includes both a Jupyter Notebook for direct code interaction and a standalone GUI application for interactive data visualization.
 
+![Example plot](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-individual-plot.png)
+
 ## Features
 
   * **Dataset Loading and Preparation**: Easily load pre-processed glucose and profiles data, or automatically build them from raw files for supported datasets.
@@ -94,6 +96,16 @@ python main.py
 3.  **Select Plot**: Choose a plot type from the "Select Plot" dropdown menu (e.g., "Individual Plot", "Daily Glycaemic Variation").
 4.  **Configure Plot Options**: Depending on the selected plot, relevant configuration options will appear (e.g., pID, start/end day, category for grouping).
 5.  **Draw Plot**: Click the "Draw Plot" button to generate and display the visualization.
+
+![T1DM-Explorer-daily-glycaemic-plot](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-daily-glycaemic-plot.PNG)
+
+![T1DM-Explorer-glycaemic-comparison-plot-1](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-glycaemic-comp-plot-1.PNG)
+
+![T1DM-Explorer-glycaemic-comparison-plot-2](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-glycaemic-comp-plot-2.PNG)
+
+![T1DM-Explorer-glycaemic-histogram-plo](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-glycaemic-hist-plot.PNG)
+
+![T1DM-Explorer-CEG-plot](https://raw.githubusercontent.com/jsmdaniels/T1DM-Explorer/refs/heads/main/examples/T1DM-Explorer-ceg-plot.PNG)
 
 ### 2\. Using the Jupyter Notebook
 
